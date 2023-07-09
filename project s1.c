@@ -1,4 +1,4 @@
-//____UNDO AND REDO OPERATION______
+//____UNDO AND REDO OPERATION___
 
 #include<stdio.h>
 #include<ctype.h>
